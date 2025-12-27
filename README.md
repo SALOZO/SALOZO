@@ -40,13 +40,18 @@ Besides backend development, I also have an interest in **Cyber Security** and e
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+<img src="(https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)" />
+
 
 ---
 
 ###💻OS
-https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+
+<img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+---
 
 ### 🎮 Hobbies
 - Game Development (as a side hobby)
