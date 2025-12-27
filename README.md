@@ -46,7 +46,7 @@ Besides backend development, I also have an interest in **Cyber Security** and e
 
 ---
 
-###💻OS
+### 💻 OS
 
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
