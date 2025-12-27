@@ -41,7 +41,7 @@ Besides backend development, I also have an interest in **Cyber Security** and e
 
 #### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-<img src="(https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)" />
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
 
 ---
