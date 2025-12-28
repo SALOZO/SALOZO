@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I'm a student who loves logic, backend systems, and databases.  
 I enjoy building APIs, managing databases, and learning how secure systems work.
 
-Besides backend development, I also have an interest in **Cyber Security** and enjoy **Game Development** as a side hobby.
+Besides backend development, I also have an interest in **Cyber Security** and enjoy learning about **Server Administration** and Infrastructure.
 
 ---
 
